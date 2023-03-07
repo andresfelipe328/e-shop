@@ -10,3 +10,5 @@ Exectuion Process:
   6. Migrate -> python manage.py migrate
   7. Create superuser for admin panel
   8. Run the django server and enter your localhost:<port number>
+
+note: deployment is not active due to Heroku's changes to the free tier option.
